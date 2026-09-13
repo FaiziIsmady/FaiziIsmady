@@ -19,7 +19,7 @@ I am currently building a T-shaped expertise with the base of Software Engineeri
   <a href="https://www.linkedin.com/in/muhammad-faizi-ismady/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portofolio-web-blue.vercel.app/">
+  <a href="https://faiziismady.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=&logoColor=white" />
   </a>
 </p>
