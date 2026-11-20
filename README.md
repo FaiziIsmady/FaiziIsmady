@@ -7,7 +7,7 @@ FaiziIsmady/FaiziIsmady is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hello! My name is Faizi, I am a third year CS Student at Universitas Indonesia.
+Hello! My name is Faizi, I am a Final year CS Student at Universitas Indonesia.
 
 I am currently building a T-shaped expertise with the base of Software Engineering, with plans of specializing into AI or Cyber Security.
 
